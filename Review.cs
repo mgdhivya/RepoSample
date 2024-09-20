@@ -2,9 +2,8 @@ using System;
 
 class Review{
 
-	//int a,b;
 	static string name="Hello";
-
+	
 	const int Price_Salary=20000;
 	
 
